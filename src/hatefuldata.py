@@ -1,4 +1,5 @@
 import torch
+from PIL import Image
 import pandas_path
 import pandas as pd
 
